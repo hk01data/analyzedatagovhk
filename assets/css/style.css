@@ -125,3 +125,8 @@ canvas {
 #next-page:before {
   border-left-color: #4891B8;
 }
+@media screen and (max-width: 470px) {
+  #ctitle {
+    height: 3.5em;
+  }
+}
